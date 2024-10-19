@@ -9,7 +9,8 @@ Soy conductor en aplicaciones de transporte, apasionado por la tecnología y los
 
 - [Facebook](https://www.facebook.com/obserproducciones)
 - [Instagram](https://www.instagram.com/angelo.mendiburu/)
-
+- [tiktok](https://www.tiktok.com/@obser_producciones)
+  
 ## Mis notas de lectura:
 
 - [Mindset](./Mindset.md)
