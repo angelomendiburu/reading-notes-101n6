@@ -1,4 +1,4 @@
-#Growth Mindset
+# Growth Mindset
 
 El Growth Mindset, o mentalidad de crecimiento, es un concepto desarrollado por la psicóloga Carol Dweck. 
 Se refiere a la creencia de que las habilidades y la inteligencia pueden desarrollarse a través del esfuerzo, la práctica y la perseverancia.
