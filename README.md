@@ -12,4 +12,4 @@ Soy conductor en aplicaciones de transporte, apasionado por la tecnología y los
 
 ## Mis notas de lectura:
 
--[Mindset](./Mindset.md)
+- [Mindset](./Mindset.md)
