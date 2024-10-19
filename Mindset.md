@@ -6,3 +6,11 @@ Las personas con esta mentalidad ven los desafíos como oportunidades para apren
 
 En contraste, la mentalidad fija sostiene que las habilidades son innatas y no pueden cambiarse. 
 Fomentar una mentalidad de crecimiento puede ayudar a mejorar el rendimiento y promover una actitud positiva hacia el aprendizaje y el desarrollo personal.
+
+## Como cambiar mi mindset:
+
+-Aprender de los fracasos
+-Valorar el esfuerzo: 
+-Buscar retroalimentación 
+
+[Enlace al readme](./README.md)
