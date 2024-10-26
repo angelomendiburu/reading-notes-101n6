@@ -14,3 +14,40 @@ Soy conductor en aplicaciones de transporte, apasionado por la tecnología y los
 ## Mis notas de lectura:
 
 - [Mindset](./Mindset.md)
+
+## Mis notas de lectura
+ 
+ -Tabla de contenido 
+ 
+ - 101
+ - [read01](./101/read01.md)
+ - [read01](./101/read02.md)
+ - [read01](./101/read03.md)
+ - [read01](./101/read04.md)
+ - [read01](./101/read05.md)
+ - [read01](./101/read06.md)
+ - [read01](./101/read07.md)
+ - [read01](./101/read08.md)
+ - [read01](./101/read09.md)
+ - [read01](./101/read010.md)
+ - [read01](./101/read011.md)
+ - [read01](./101/read012.md)
+
+- 201
+ - [read02](./201/read01.md)
+ - [read02](./201/read02.md)
+ - [read02](./201/read03.md)
+ - [read02](./201/read04.md)
+ - [read02](./201/read05.md)
+ - [read02](./201/read06.md)
+ - [read02](./201/read07.md)
+ - [read02](./201/read08.md)
+ - [read02](./201/read09.md)
+ - [read02](./201/read010.md)
+ - [read02](./201/read011.md)
+ - [read02](./201/read012.md)
+ - [read02](./201/read013.md)
+ - [read02](./201/read014.md)
+ - [read02](./201/read015.md)
+ - [read02](./201/read016.md)
+ - [read02](./201/read017.md)
